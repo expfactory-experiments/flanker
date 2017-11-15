@@ -1,0 +1,19 @@
+{
+    "cognitive_atlas_task_id": "tsk_4a57abb949a4f",
+    "instructions":"Respond to the stimuli on the screen.",
+    "description":"Expfactory experiment",
+    "url":"https://www.github.com/expfactory-experiments/flanker",
+    "contributors": [
+        "Ian Eisenberg",
+        "Zeynep Enkavi",
+        "Patrick Bissett",
+        "Vanessa Sochat",
+        "Russell Poldrack"
+    ],
+    "exp_id": "flanker",
+    "name": "Flanker Task",
+    "publish": "True",
+    "reference": ["link.springer.com/article/10.3758%2FBF03203267"],
+    "template": "jspsych",
+    "time": 6.5
+]
